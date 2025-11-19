@@ -34,8 +34,8 @@ gold     → dimension & fact tables
 
 ---
 ### GitHub Repository Structure
-
-""" data-warehouse-project/
+"""
+ data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
