@@ -11,8 +11,8 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 This project involves:
 1.Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into Postgresql Database.
 
-2.Silver Layer: 
-Purpose:
+2.Silver Layer
+# Purpose
 	-	Clean and validate data
 	-	Fix nulls and malformed fields
 	-	Standardize formats (dates, product keys, customer IDs)
